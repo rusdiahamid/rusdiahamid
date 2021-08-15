@@ -1,5 +1,10 @@
-### Hi there 👋
+# Halo semua! 👋
 
+Perkenalkan nama saya **Rusdia Hamid**.
+
+Saya Sedang belajar menjadi Web Developer
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rusdia-hamid-a81175186/)ku ya.
 <!--
 **rusdiahamid/rusdiahamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

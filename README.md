@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Rusdia Hamid**.
 
 - 🔭 I’m currently working on PT Steel Pipe Industry of Indonesia Tbk
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning JavaScript
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rusdia-hamid-a81175186/)ku ya.
 
